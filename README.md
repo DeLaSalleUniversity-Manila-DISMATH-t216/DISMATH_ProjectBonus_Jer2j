@@ -2,7 +2,7 @@
 
 ### Designer Screenshots
 - Designer Screen
-![ScreenShot](screen.png)
+![ScreenShot](design.png)
 
 ### Block Screenshots
 - Block for Linear Search
