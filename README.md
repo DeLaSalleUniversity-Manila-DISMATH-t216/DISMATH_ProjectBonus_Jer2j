@@ -6,7 +6,7 @@
 
 ### Block Screenshots
 - Block for Linear Search
-![ScreenShot](block linear.png)
+![ScreenShot](block.linear.png)
 
 - Block for Binary Search
-![ScreenShot](block binary.png)
+![ScreenShot](block.binary.png)
